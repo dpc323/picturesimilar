@@ -1,0 +1,2 @@
+# picturesimilar
+用python跟oc分别实现了图片相似度检测功能
